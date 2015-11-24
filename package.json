@@ -1,21 +1,21 @@
 {
-  "name": "ng-nestable",
-  "version": "0.0.1",
-  "description": "Angular module for jQuery nestable plugin",
-  "homepage": "https://github.com/kamilkp/ng-nestable",
-  "author": {
-    "name": "Kamil Pekala",
-    "email": "kamilkp@gmail.com",
-    "url": "http://github.com/kamilkp"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/kamilkp/ng-nestable.git"
-  },
-  "devDependencies": {
-  },
-  "scripts": {
-  },
-  "dependencies": {
-  }
+	"name": "ng-nestable",
+	"version": "1.0.0",
+	"description": "Angular module for jQuery nestable plugin",
+	"homepage": "https://github.com/suxur/ng-nestable",
+	"author": {
+		"name": "Joshua Payne",
+		"email": "suxur@me.com",
+		"url": "http://github.com/suxur"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/suxur/ng-nestable.git"
+	},
+	"devDependencies": {
+	},
+	"scripts": {
+	},
+	"dependencies": {
+	}
 }

@@ -1,27 +1,30 @@
 {
-  "name": "ng-nestable",
-  "version": "0.0.1",
-  "description": "Angular module for jQuery nestable plugin",
-  "homepage": "http://kamilkp.github.io/ng-nestable",
-  "main": "src/angular-nestable.js",
-  "keywords": [
-    "angularjs",
-    "javascript",
-    "jquery",
-    "sortable",
-    "nestable"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "Gruntfile.js",
-    "README.md",
-    "bower.json",
-    "package.json",
-    "node_modules",
-    ".git"
-  ],
-  "authors": [
-    "Kamil Pękala <kamilkp@gmail.com>"
-  ]
+	"name": "ng-nestable",
+	"version": "1.0.0",
+	"description": "Angular module for jQuery nestable plugin",
+	"main": "src/angular-nestable.js",
+	"keywords": [
+		"angularjs",
+		"javascript",
+		"jquery",
+		"sortable",
+		"nestable"
+	],
+	"authors": [
+		"Joshua Payne <suxur@me.com>",
+		"Kamil Pękala <kamilkp@gmail.com>"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/suxur/ng-nestable",
+	"moduleType": [],
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"nestable2": "~1.2.3"
+	}
 }
